@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/rinkeby.0xAudition.github.io/static/css/main.ac34072f.chunk.css",
-    "main.js": "/rinkeby.0xAudition.github.io/static/js/main.af620d77.chunk.js",
-    "main.js.map": "/rinkeby.0xAudition.github.io/static/js/main.af620d77.chunk.js.map",
-    "runtime-main.js": "/rinkeby.0xAudition.github.io/static/js/runtime-main.40c51052.js",
-    "runtime-main.js.map": "/rinkeby.0xAudition.github.io/static/js/runtime-main.40c51052.js.map",
-    "static/css/2.0dcad14b.chunk.css": "/rinkeby.0xAudition.github.io/static/css/2.0dcad14b.chunk.css",
-    "static/js/2.e3636756.chunk.js": "/rinkeby.0xAudition.github.io/static/js/2.e3636756.chunk.js",
-    "static/js/2.e3636756.chunk.js.map": "/rinkeby.0xAudition.github.io/static/js/2.e3636756.chunk.js.map",
-    "index.html": "/rinkeby.0xAudition.github.io/index.html",
-    "static/css/2.0dcad14b.chunk.css.map": "/rinkeby.0xAudition.github.io/static/css/2.0dcad14b.chunk.css.map",
-    "static/css/main.ac34072f.chunk.css.map": "/rinkeby.0xAudition.github.io/static/css/main.ac34072f.chunk.css.map",
-    "static/js/2.e3636756.chunk.js.LICENSE.txt": "/rinkeby.0xAudition.github.io/static/js/2.e3636756.chunk.js.LICENSE.txt",
-    "static/media/chainlink.80875033.svg": "/rinkeby.0xAudition.github.io/static/media/chainlink.80875033.svg"
+    "main.css": "/rinkeby/static/css/main.ac34072f.chunk.css",
+    "main.js": "/rinkeby/static/js/main.74755a75.chunk.js",
+    "main.js.map": "/rinkeby/static/js/main.74755a75.chunk.js.map",
+    "runtime-main.js": "/rinkeby/static/js/runtime-main.4943e478.js",
+    "runtime-main.js.map": "/rinkeby/static/js/runtime-main.4943e478.js.map",
+    "static/css/2.0dcad14b.chunk.css": "/rinkeby/static/css/2.0dcad14b.chunk.css",
+    "static/js/2.9a888853.chunk.js": "/rinkeby/static/js/2.9a888853.chunk.js",
+    "static/js/2.9a888853.chunk.js.map": "/rinkeby/static/js/2.9a888853.chunk.js.map",
+    "index.html": "/rinkeby/index.html",
+    "static/css/2.0dcad14b.chunk.css.map": "/rinkeby/static/css/2.0dcad14b.chunk.css.map",
+    "static/css/main.ac34072f.chunk.css.map": "/rinkeby/static/css/main.ac34072f.chunk.css.map",
+    "static/js/2.9a888853.chunk.js.LICENSE.txt": "/rinkeby/static/js/2.9a888853.chunk.js.LICENSE.txt",
+    "static/media/chainlink.80875033.svg": "/rinkeby/static/media/chainlink.80875033.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.40c51052.js",
+    "static/js/runtime-main.4943e478.js",
     "static/css/2.0dcad14b.chunk.css",
-    "static/js/2.e3636756.chunk.js",
+    "static/js/2.9a888853.chunk.js",
     "static/css/main.ac34072f.chunk.css",
-    "static/js/main.af620d77.chunk.js"
+    "static/js/main.74755a75.chunk.js"
   ]
 }
